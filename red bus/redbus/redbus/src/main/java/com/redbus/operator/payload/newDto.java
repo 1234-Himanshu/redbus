@@ -12,5 +12,6 @@ public class newDto {
     private String seatNumber;
     private String seatCompanyName;
     private String seatdetails;
+    private String  seatType;
 
 }
